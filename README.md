@@ -2,7 +2,7 @@
 
 ## Thành viên
 1. Nguyễn Trung Dũng
-2. Triệu Tiến Quỳnh
+2. Nguyễn Quốc Ngọc
 3. Nguyễn Lệ Thu
 
 ## Nhiệm vụ của nhóm
